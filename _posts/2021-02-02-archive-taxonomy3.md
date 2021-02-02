@@ -1,6 +1,6 @@
 ---
-layout: archive-taxonomy
-title: archive-taxonomy2
+layout: archive
+title: archive
 ---
 
 #실험중입니다.
